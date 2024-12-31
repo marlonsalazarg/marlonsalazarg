@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **microservices**
 
-- 👨‍💻 All of my projects are available at [https://marlonsalazar.tech/](https://marlonsalazar.tech/)
+- 👨‍💻 All of my projects are available at [https://portfolio-marlonsalazarg.vercel.app/](https://portfolio-marlonsalazarg.vercel.app/)
 
 - 💬 Ask me about **react**
 
